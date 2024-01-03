@@ -1,0 +1,10 @@
+palletes:
+  "minecraft:black_wool": [1, 9, 10]
+  "minecraft:black_concrete": [5, 61]
+  "minecraft:light_gray_wool": [33, 34, 35]
+  "minecraft:green_wool": [41, 42, 43, 45]
+  "minecraft:brown_wool": [49, 50, 51, 53]
+  "minecraft:snow_block": [57]
+  "minecraft:yellow_concrete": [65]
+  "minecraft:blue_wool": [73]
+  "minecraft:black_stained_glass": [249]
