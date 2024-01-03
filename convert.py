@@ -80,7 +80,7 @@ def generate_vox_palettes(palette_data: dict[str, list[int]]) -> list[str]:
     return vox_pallettes
 
 
-def init_schematic(width: int, length: int, height: int, schematic_palette: dict) -> nbt.NBTTagCompound:
+def init_schematic(width: int, length: int, height: int, schematic_palette: dict[str, int]) -> nbt.NBTTagCompound:
 
     schematic_base = nbt.NBTTagCompound()
     schematic_base.value['Palette'] = nbt.NBTTagCompound()
