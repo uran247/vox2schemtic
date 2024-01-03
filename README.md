@@ -6,8 +6,9 @@ Magica Voxelのデータファイル(.vox)をminecraftのschematicファイル(.
 前提条件としてバージョン3.9以上のpythonをインストールしてください
 
 
-## 事前準備
+## インストール方法
 ```
+git clone https://github.com/uran247/vox2schemtic.git
 pip install PyYAML
 pip install py-vox-io
 pip install Python-NBT
